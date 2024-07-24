@@ -35,8 +35,7 @@ This Python script helps with the configuration of Mikrotik routers, specificall
 
 These packages can be installed using pip:
 
-```sh
-pip install paramiko routeros_api prettytable´´´
+pip install paramiko routeros_api prettytable
 
 Setup
 
