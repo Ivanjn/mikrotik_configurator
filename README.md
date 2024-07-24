@@ -47,11 +47,14 @@ Setup
 
 
 	[router]
+
 	ip = 192.168.88.1
+
 	username = admin
+
 	port = 22
 
-4. Run the script: python main.py
+5. Run the script: python main.py
 
 Usage
 
