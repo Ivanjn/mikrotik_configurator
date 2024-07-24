@@ -46,11 +46,11 @@ Setup
 	3.	Create a settings.conf file with the router’s IP and port (the password is not stored for security reasons). Example:
 
 [router]
-ip = 192.168.88.1
+	ip = 192.168.88.1
 
-username = admin
+	username = admin
 
-port = 22
+	port = 22
 
 4. Run the script: python main.py
 
