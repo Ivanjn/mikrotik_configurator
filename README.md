@@ -61,9 +61,9 @@ The script runs in a terminal window. After starting the script, you will see a 
 
 Note
 
-	•	This script was created for my hAP ax3 router.
-	•	The IP address and port of the router are stored in a configuration file, but the password is not stored anywhere for security reasons.
-	•	Once the WiFi and WireGuard configuration options are ready, I plan to share the code on GitHub if anyone is interested.
+- This script was created for my hAP ax3 router.
+- The IP address and port of the router are stored in a configuration file, but the password is not stored anywhere for security reasons.
+- Once the WiFi and WireGuard configuration options are ready, I plan to share the code on GitHub if anyone is interested.
 
 Disclaimer
 
