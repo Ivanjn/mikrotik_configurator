@@ -2,7 +2,7 @@
 
 This Python script helps with the configuration of Mikrotik routers, specifically designed for managing backups, user accounts, and firewall NAT rules. 
 
-	** I would say that this script is in the early beta stage, so please be careful. **
+** I would say that this script is in the early beta stage, so please be careful. **
 
 ## Features
 
