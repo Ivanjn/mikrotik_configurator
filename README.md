@@ -45,6 +45,7 @@ Setup
 2.	Enable SSH on your Mikrotik router and add the necessary firewall rules to allow connections.
 3.	Create a settings.conf file with the router’s IP and port (the password is not stored for security reasons). Example:
 
+
 	[router]
 	ip = 192.168.88.1
 	username = admin
